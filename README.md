@@ -1,4 +1,4 @@
-# java-playground
+# java-learning
 
 learning java through small programs, practice problems and mini projects.
 
