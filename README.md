@@ -9,7 +9,7 @@ This repository contains my Java learning journey as I work through the Bro Code
 - Document my progress publicly on GitHub
 
 ## Progress
--[x] Introduction to java
+- [x] Introduction to java
 
 
 Each package contains code and examples for a specific topic.
