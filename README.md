@@ -12,7 +12,7 @@ This repository contains my Java learning journey as I work through the Bro Code
 - [x] introduction to java☕
 - [x] variables ❎
 - [x] user input ⌨️
-- [ ] ⭐ mad libs game 📕
+- [x] ⭐ mad libs game 📕
 - [ ] arithmetic 🧮
 - [ ] ⭐ shopping cart program 🛒
 - [ ] if statements 🤔
