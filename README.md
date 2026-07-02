@@ -16,7 +16,7 @@ This repository contains my Java learning journey as I work through the Bro Code
 - [x] arithmetic 🧮
 - [x] ⭐ shopping cart program 🛒
 - [x] if statements 🤔
-- [ ] random numbers 🔀
+- [x] random numbers 🔀
 - [ ] math class 📐
 - [ ] printf 🖨️
 - [ ] ⭐ compound interest calculator 💸
