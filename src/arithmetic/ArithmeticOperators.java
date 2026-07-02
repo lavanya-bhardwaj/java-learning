@@ -3,12 +3,10 @@ package arithmetic;
 public class ArithmeticOperators{
     public static void main(String[] args){
 
-        //Increment and Decrement Operators
+        // ORDER OF OPERATIONS [P-E-M-D-A-S]
 
-        int x = 1;
-        x++;    //increment of 1
-        x--;    //decrement of 1
+        double result = 3 + 4 * (7 - 5) / 2.0;
 
-        System.out.println(x);
+        System.out.println(result);
     }
 }
