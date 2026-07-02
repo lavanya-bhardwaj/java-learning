@@ -3,18 +3,12 @@ package arithmetic;
 public class ArithmeticOperators{
     public static void main(String[] args){
 
-        // Augmented Assignment Operators
+        //Increment and Decrement Operators
 
-        int x = 10;
-        int y = 3;
-
-        //x+=y;
-        //x-=y;
-        //x*=y;
-        //x/=y;
-        x%=y;
+        int x = 1;
+        x++;    //increment of 1
+        x--;    //decrement of 1
 
         System.out.println(x);
-
     }
 }
