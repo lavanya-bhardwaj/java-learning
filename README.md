@@ -13,8 +13,8 @@ This repository contains my Java learning journey as I work through the Bro Code
 - [x] variables ❎
 - [x] user input ⌨️
 - [x] ⭐ mad libs game 📕
-- [ ] arithmetic 🧮
-- [ ] ⭐ shopping cart program 🛒
+- [x] arithmetic 🧮
+- [x] ⭐ shopping cart program 🛒
 - [ ] if statements 🤔
 - [ ] random numbers 🔀
 - [ ] math class 📐
