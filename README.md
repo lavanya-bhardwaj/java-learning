@@ -15,7 +15,7 @@ This repository contains my Java learning journey as I work through the Bro Code
 - [x] ⭐ mad libs game 📕
 - [x] arithmetic 🧮
 - [x] ⭐ shopping cart program 🛒
-- [ ] if statements 🤔
+- [x] if statements 🤔
 - [ ] random numbers 🔀
 - [ ] math class 📐
 - [ ] printf 🖨️
