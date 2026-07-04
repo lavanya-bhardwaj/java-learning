@@ -18,8 +18,8 @@ This repository contains my Java learning journey as I work through the Bro Code
 - [x] if statements 🤔
 - [x] random numbers 🔀
 - [x] math class 📐
-- [ ] printf 🖨️
-- [ ] ⭐ compound interest calculator 💸
+- [x] printf 🖨️
+- [x] ⭐ compound interest calculator 💸
 - [ ] nested if statements 🎟️
 - [ ] string methods 🧵
 - [ ] substrings 📧
