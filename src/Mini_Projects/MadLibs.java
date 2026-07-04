@@ -1,4 +1,4 @@
-package input_output;
+package Mini_Projects;
 
 import java.util.Scanner;
 

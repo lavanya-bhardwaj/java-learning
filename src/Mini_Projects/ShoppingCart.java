@@ -1,4 +1,4 @@
-package arithmetic;
+package Mini_Projects;
 
 import java.util.Scanner;
 
