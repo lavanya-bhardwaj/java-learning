@@ -20,8 +20,8 @@ This repository contains my Java learning journey as I work through the Bro Code
 - [x] math class 📐
 - [x] printf 🖨️
 - [x] ⭐ compound interest calculator 💸
-- [ ] nested if statements 🎟️
-- [ ] string methods 🧵
+- [x] nested if statements 🎟️
+- [x] string methods 🧵
 - [ ] substrings 📧
 - [ ] ⭐ weight converter 🏋️
 - [ ] ternary operator ❔
