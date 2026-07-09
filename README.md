@@ -22,7 +22,7 @@ This repository contains my Java learning journey as I work through the Bro Code
 - [x] ⭐ compound interest calculator 💸
 - [x] nested if statements 🎟️
 - [x] string methods 🧵
-- [ ] substrings 📧
+- [x] substrings 📧
 - [ ] ⭐ weight converter 🏋️
 - [ ] ternary operator ❔
 - [ ] ⭐ temperature converter 🌡️
